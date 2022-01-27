@@ -32,20 +32,5 @@ Managers and employees
 ![](StaffTaskBoss.gif)
 ![](StaffTaskEemployee.gif)
 
-![Logo](https://user-images.githubusercontent.com/91871865/151324231-deb8b454-1d72-46fb-ad96-b998a0d924cb.png)
+![Logo](https://user-images.githubusercontent.com/91871865/151326411-74a0b4d9-abf8-4f84-bda7-a9a4d981e4e7.png)
 
-![login1](https://user-images.githubusercontent.com/91871865/151324352-e65fc71a-5d9f-44cc-a347-8e55e0014a2a.png)
-
-![registration](https://user-images.githubusercontent.com/91871865/151324424-fa42aba5-fe3d-4637-9970-2156347b664a.png)
-
-![profil](https://user-images.githubusercontent.com/91871865/151325043-db5d3762-b9af-4a3d-9d72-78108d5bebd2.png)
-
-
-
-![setting Employee](https://user-images.githubusercontent.com/91871865/151323761-f1ef2590-eb3d-4321-b8ae-3045ff83c6d4.png)
-
-![nameEmployee](https://user-images.githubusercontent.com/91871865/151324785-f8d578bd-d3d0-4111-9299-d4a5c55b617c.png)
-
-![DetailsEmployee](https://user-images.githubusercontent.com/91871865/151324823-65cd50e4-ab31-44a8-9c04-73a2b21852fd.png)
-
-![settingBoss](https://user-images.githubusercontent.com/91871865/151324880-a711395a-8051-4cd0-81e8-4c700f0ded55.png)
