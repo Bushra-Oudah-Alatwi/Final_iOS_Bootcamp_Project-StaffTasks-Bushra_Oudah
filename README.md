@@ -31,3 +31,13 @@ Managers and employees
 ## Demo
 ![](StaffTaskBoss.gif)
 ![](StaffTaskEemployee.gif)
+![](Logo.png)
+![](login1.png)
+![](registration.png)
+![](profil.png)
+![](TaskForEmployee.png)
+![](StaffTaskEemployee.gif)
+![](setting Employee.png)
+![](nameEmployee.png)
+![](DetailsEmployee.png)
+![](settingBoss.png)
