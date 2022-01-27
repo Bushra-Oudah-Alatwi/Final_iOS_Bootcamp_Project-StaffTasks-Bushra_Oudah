@@ -41,3 +41,5 @@ Managers and employees
 ![](nameEmployee.png)
 ![](DetailsEmployee.png)
 ![](settingBoss.png)
+![setting Employee](https://user-images.githubusercontent.com/91871865/151323761-f1ef2590-eb3d-4321-b8ae-3045ff83c6d4.png)
+
