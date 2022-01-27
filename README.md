@@ -34,3 +34,9 @@ Managers and employees
 
 ![Logo](https://user-images.githubusercontent.com/91871865/151326411-74a0b4d9-abf8-4f84-bda7-a9a4d981e4e7.png)
 
+
+![Logo](https://user-images.githubusercontent.com/91871865/151326722-bf3d08b3-b5f7-4f0f-af3f-9f3b8975d3c3.png)
+
+![settingBoss](https://user-images.githubusercontent.com/91871865/151326796-30d9f971-f8cb-4e55-b4d3-d022cd17886f.png)
+
+![TaskForEmployee](https://user-images.githubusercontent.com/91871865/151326827-ed0ba67b-e04c-4cd4-ba7e-004265a92213.png)
